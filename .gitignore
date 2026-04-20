@@ -1,0 +1,8 @@
+*_report_*.txt
+main
+__pycache__/
+*.pyc*.deb
+*.zip
+*.tar.gz
+__pycache__/
+*.pyc
